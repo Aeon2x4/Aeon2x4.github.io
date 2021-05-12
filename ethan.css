@@ -17,5 +17,12 @@ img.duck {
   margin-left: auto;
   margin-right: auto;
   max-width: fit-content;
-  border:5px black
+  border:5px black;
+  border-radius: 75px;
+}
+.row {
+  margin: 10px;
+  background: blanchedalmond;
+  border-radius: 10px;
+  padding: 10px;
 }
